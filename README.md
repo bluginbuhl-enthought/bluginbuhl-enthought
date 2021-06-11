@@ -19,35 +19,23 @@ You can also find me on the following sites:
 
 ## Software Stuff I Enjoy
 
-<html>
-  <head>
-    <style>
-      .container {
-          display: flex;
-          flex-direction: row;
-      }
-    </style>
-  </head>
-  <body>
-    <table>
-      <tbody>
-      <tr>
-          <td>Operating Systems</td>
-          <td>
-          <a href="#"><img align="left" title="Windows" alt="Windows" height="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" /></a>
-          </td>
-          <td>
-          <a href="#"><img align="left" title="Linux" alt="Linux" height="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></a></td>
-          <td>
-          <a href="#"><img align="left" title="Ubuntu" alt="Ubuntu" height="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /></a></td>
-          <td>
-          <a href="#"><img align="left" title="Arch Linux" alt="Arch Linux" height="45px"   src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" /></a></td>
-          <td>
-          <a href="#"><img align="left" title="Docker" alt="Docker" height="45px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/docker/docker.png" /></a></td>
-          </tr>
-      </tbody>
-    </table>
-</div>
 
-</body>
-</html>
+
+<table style="border: none;">
+<tbody>
+<tr>
+    <td>Operating Systems</td>
+    <td style="text-align: center">
+    <a href="#"><img align="left" title="Windows" alt="Windows" height="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" /></a>
+    </td>
+    <td style="text-align: center">
+    <a href="#"><img align="left" title="Linux" alt="Linux" height="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></a></td>
+    <td style="text-align: center">
+    <a href="#"><img align="left" title="Ubuntu" alt="Ubuntu" height="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /></a></td>
+    <td style="text-align: center">
+    <a href="#"><img align="left" title="Arch Linux" alt="Arch Linux" height="45px"   src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" /></a></td>
+    <td style="text-align: center">
+    <a href="#"><img align="left" title="Docker" alt="Docker" height="45px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/docker/docker.png" /></a></td>
+    </tr>
+</tbody>
+</table>
